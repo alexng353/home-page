@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState } from "react";
-import Clock from "../components/clock";
 
 import Links from "../components/links";
 import Stock from "../components/stock";
